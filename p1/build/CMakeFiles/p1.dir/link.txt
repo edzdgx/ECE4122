@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/p1.dir/src/array.cc.o CMakeFiles/p1.dir/src/simple_string.cc.o CMakeFiles/p1.dir/main.cc.o  -o p1 

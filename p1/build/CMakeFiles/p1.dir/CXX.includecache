@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/array.h
+iostream
+-
+
+../src/simple_string.h
+iostream
+-
+cstdint
+-
+
+/Users/edz/Desktop/ece4122/p1/main.cc
+iostream
+-
+vector
+-
+simple_string.h
+/Users/edz/Desktop/ece4122/p1/simple_string.h
+array.h
+/Users/edz/Desktop/ece4122/p1/array.h
+

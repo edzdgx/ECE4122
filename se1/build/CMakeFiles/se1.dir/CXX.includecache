@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/vector3.h
+
+/mnt/c/Users/Edz/Desktop/ece4122/se1/main.cc
+iostream
+-
+vector3.h
+/mnt/c/Users/Edz/Desktop/ece4122/se1/vector3.h
+
+/mnt/c/Users/Edz/Desktop/ece4122/se1/src/vector3.cc
+vector3.h
+/mnt/c/Users/Edz/Desktop/ece4122/se1/src/vector3.h
+iostream
+-
+
+/mnt/c/Users/Edz/Desktop/ece4122/se1/src/vector3.h
+

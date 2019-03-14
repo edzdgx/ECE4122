@@ -1,0 +1,1 @@
+/usr/bin/c++   -Werror   CMakeFiles/se1.dir/src/vector3.cc.o CMakeFiles/se1.dir/main.cc.o  -o se1 

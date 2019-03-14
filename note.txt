@@ -1,0 +1,11 @@
+    temp[idx] = arr[idx]  + k * ((
+                                arr[left(idx, width)] +
+                                arr[right(idx, width)] +
+                                arr[up(idx, width, height)] +
+                                arr[down(idx, width, height)])/4.0-arr[idx]);
+
+    filter
+    x(t) --> filter ---> y(t)
+    1st low pass filter
+    y(n) = y(n) * (1-k) + x(n)*k;
+    k: 0-1

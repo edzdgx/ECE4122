@@ -1,0 +1,2 @@
+login code: coc-ice.pace.gatech.edu
+ssh -X username@coc-ice.pace.gatech.edu

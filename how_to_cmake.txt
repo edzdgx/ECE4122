@@ -1,0 +1,5 @@
+Step 1: create CMakeLists.txt
+Step 2: cd build
+Step 3: cmake ..
+Step 4: make
+Step 5: ./se1
